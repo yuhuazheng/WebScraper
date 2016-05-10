@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 08 20:26:43 PDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0154-938d-7bb6-00000a71a490 
+on database directory memory:/home/yuhua/IdeaProjects/WebScraper/testDB with class loader sun.misc.Launcher$AppClassLoader@5451c3a8 
+Loaded from file:/home/yuhua/Downloads/db-derby-10.12.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-8u91-b14-0ubuntu4~16.04.1-b14
+user.dir=/home/yuhua/IdeaProjects/WebScraper
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-22-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
